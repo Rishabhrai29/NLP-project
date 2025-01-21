@@ -1,0 +1,78 @@
+.jumbotron{
+       background-color: 	#B0B0B0;
+       border-radius: 20px;
+     color: #f0fff0;
+}
+
+.original_title{
+    background-color: #ffffff;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    color:#000000;
+}
+
+.Summary_title
+    {
+        background-color: #000c;
+        font-size: 32px;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+        color:#000000;;
+    }
+
+    .srt{
+        display:flex;
+        flex-direction: row;
+    }
+
+    .originaltxt{
+          background-color: #5252e5;
+          padding: 20px;
+          border-radius: 20px;
+          color:#f0fff0
+    }
+
+    .summarytxt{
+        background-color: #000000;
+            padding: 20px;
+            margin-left: 10px;
+            border-radius: 20px;
+            color:#f0fff0;
+    }
+
+    .btn-pimary{
+        font-size: 20px;
+        margin-left: 220px;
+        color:#f0fff0;
+        background-color: #5252e5;
+    }
+
+    .btn-success{
+        background-color: #000000;
+        font-size: 20px;
+        margin-left: 480px;
+        color:#f0fff0;
+    }
+
+    .heading{
+        font-size: 120px;
+        font-weight: 700;
+        
+    }
+
+    .lead{
+        font-weight: 100;
+        font-size: x-large;
+    }
+
+    .mine{
+        font-size: 120px;
+        font-weight: 700;
+    }
+    .motu{
+        font-weight: 100;
+        font-size: x-large;
+    }
